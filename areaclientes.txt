@@ -1,2 +1,3 @@
 Aqui se muestra el area de los clientes
 Aqui estan las mesas y decoraciones principales donde estaran los clientes
+Se agregaron mas mesas y decoracion para que asista mas clientes
